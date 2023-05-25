@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT_TODO_APP/static/css/main.388140da.css",
+    "main.js": "/REACT_TODO_APP/static/js/main.95d006af.js",
+    "static/js/787.a5cad257.chunk.js": "/REACT_TODO_APP/static/js/787.a5cad257.chunk.js",
+    "index.html": "/REACT_TODO_APP/index.html",
+    "main.388140da.css.map": "/REACT_TODO_APP/static/css/main.388140da.css.map",
+    "main.95d006af.js.map": "/REACT_TODO_APP/static/js/main.95d006af.js.map",
+    "787.a5cad257.chunk.js.map": "/REACT_TODO_APP/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.388140da.css",
+    "static/js/main.95d006af.js"
+  ]
+}
